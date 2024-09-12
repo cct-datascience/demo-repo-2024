@@ -1,2 +1,7 @@
 # demo-repo-2024
-For use in a GitHub workshop
+For demonstrating collaboration with GitHub when everyone has push access to a repository.
+
+Participants:
+
+- Eric Scott
+- Renata Diaz
