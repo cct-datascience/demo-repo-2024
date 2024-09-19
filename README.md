@@ -6,6 +6,6 @@ Participants:
 - Eric R. Scott
 - Renata Diaz
 - Kat Harper
-- Daphna Uni
+- Daphna Uni peace and love 
 
 
