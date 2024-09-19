@@ -6,4 +6,4 @@ Participants:
 - Eric Scott
 - Renata Diaz
 - Kat Harper
-- Dani Steinberg
+- Danielle Steinberg
