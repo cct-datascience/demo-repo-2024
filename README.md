@@ -5,5 +5,6 @@ Participants:
 
 - Eric R. Scott
 - Renata Diaz
-- Kat Harper (username: kharper6)
-- Dapha Uni
+- Kat Harper
+- Daphna Uni
+- Jing Han Ong
