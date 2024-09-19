@@ -6,7 +6,7 @@ Participants:
 - Eric R. Scott
 - Renata Diaz
 - Kat Harper
-- Daphna Uni
+- Daphna Uni (daphnau)
 - Jing Han Ong
 
 
