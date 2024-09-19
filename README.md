@@ -4,8 +4,10 @@ For demonstrating collaboration with GitHub when everyone has push access to a r
 
 Participants:
 
--   Eric R. Scott
--   Renata Diaz
--   Kat Harper
--   Dapha Uni
--   Chi Zhou
+- Eric Scott (ericrscott@arizona.edu)
+- Renata Diaz
+- Kat Harper
+- Danielle Steinberg
+- Daphna Uni
+- Jing Han Ong
+- Chi Zhou
