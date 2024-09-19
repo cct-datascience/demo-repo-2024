@@ -6,3 +6,4 @@ Participants:
 - Eric Scott
 - Renata Diaz
 - Kat Harper
+- Josh_Oyekanmi
