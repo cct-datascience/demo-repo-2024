@@ -7,6 +7,6 @@ Participants:
 - Renata Diaz
 - Kat Harper
 - Daphna Uni
-
+- Jing Han Ong
 
 
