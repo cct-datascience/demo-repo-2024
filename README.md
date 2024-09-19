@@ -5,4 +5,7 @@ Participants:
 
 - Eric Scott (ericrscott@arizona.edu)
 - Renata Diaz
-- Dapha Uni
+- Kat Harper
+- Danielle Steinberg
+- Daphna Uni
+- Jing Han Ong
