@@ -3,7 +3,6 @@ For demonstrating collaboration with GitHub when everyone has push access to a r
 
 Participants:
 
-- Eric R. Scott
+- Eric Scott
 - Renata Diaz
-- Kat Harper
 - Dapha Uni
