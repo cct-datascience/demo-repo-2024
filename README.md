@@ -8,5 +8,3 @@ Participants:
 - Kat Harper
 - Daphna Uni
 - Jing Han Ong
-
-
