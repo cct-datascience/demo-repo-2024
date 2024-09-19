@@ -5,3 +5,4 @@ Participants:
 
 - Eric Scott
 - Renata Diaz
+- Kat Harper
