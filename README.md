@@ -6,7 +6,6 @@ Participants:
 - Eric R. Scott
 - Renata Diaz
 - Kat Harper
+- Danielle Steinberg
 - Daphna Uni
 - Jing Han Ong
-
-
