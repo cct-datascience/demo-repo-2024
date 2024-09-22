@@ -11,4 +11,4 @@ Participants:
 - Daphna Uni
 - Jing Han Ong
 - Chi Zhou
-- Nastasia Baudin
+- Nastasia M A Baudin
