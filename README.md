@@ -11,4 +11,4 @@ Participants:
 - Daphna Uni
 - Jing Han Ong
 - Chi Zhou
-- Nastasia M A Baudin (ENVS)
+- Nastasia M A Baudin (ENVS; Shantz)
